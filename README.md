@@ -4,7 +4,7 @@
 <br>
 
 
-[![Watch the video](https://raw.githubusercontent.com/raic0d3r/bot/master/screen/Screenshot_27.png)](https://www.raicoder.ml)
+[![Watch the video](https://pasteboard.co/HjPVFly.png)](https://www.raicoder.ml)
 <br>
 [![Watch the video](https://raw.githubusercontent.com/raic0d3r/bot/master/screen/Screenshot_26.png)](https://www.raicoder.ml)
 
